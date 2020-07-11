@@ -1,0 +1,6 @@
+# file to be used by `pip install -r`
+numba
+xarray
+datashader
+holoviews
+hvplot
